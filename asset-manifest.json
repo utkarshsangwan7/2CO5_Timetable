@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/2CO5_Timetable/static/css/main.27c0412e.chunk.css",
+    "main.js": "/2CO5_Timetable/static/js/main.6213c151.chunk.js",
+    "main.js.map": "/2CO5_Timetable/static/js/main.6213c151.chunk.js.map",
+    "runtime-main.js": "/2CO5_Timetable/static/js/runtime-main.c3288f8c.js",
+    "runtime-main.js.map": "/2CO5_Timetable/static/js/runtime-main.c3288f8c.js.map",
+    "static/css/2.fe359a49.chunk.css": "/2CO5_Timetable/static/css/2.fe359a49.chunk.css",
+    "static/js/2.2e9ed35b.chunk.js": "/2CO5_Timetable/static/js/2.2e9ed35b.chunk.js",
+    "static/js/2.2e9ed35b.chunk.js.map": "/2CO5_Timetable/static/js/2.2e9ed35b.chunk.js.map",
+    "static/js/3.52d83813.chunk.js": "/2CO5_Timetable/static/js/3.52d83813.chunk.js",
+    "static/js/3.52d83813.chunk.js.map": "/2CO5_Timetable/static/js/3.52d83813.chunk.js.map",
+    "index.html": "/2CO5_Timetable/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/2CO5_Timetable/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.27c0412e.chunk.css.map": "/2CO5_Timetable/static/css/main.27c0412e.chunk.css.map",
+    "static/js/2.2e9ed35b.chunk.js.LICENSE.txt": "/2CO5_Timetable/static/js/2.2e9ed35b.chunk.js.LICENSE.txt",
+    "static/media/back.959cc93f.mp4": "/2CO5_Timetable/static/media/back.959cc93f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3288f8c.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.2e9ed35b.chunk.js",
+    "static/css/main.27c0412e.chunk.css",
+    "static/js/main.6213c151.chunk.js"
+  ]
+}
