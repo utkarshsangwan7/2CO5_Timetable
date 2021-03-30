@@ -1,0 +1,9 @@
+#body{
+color:blanchedalmond !important;
+}
+#my_list{
+    
+    background:black;
+    opacity: 0.9;
+/* background: linear-gradient(0deg, rgba(45,231,253,1) 0%, rgba(45,63,253,1) 100%);  */
+}
